@@ -1,0 +1,23 @@
+{
+  "name": "caltrain",
+  "version": "1.0.0",
+  "description": "mobile friendly caltrain schedule and fares",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Rica Zhang",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "cheerio": "^1.0.0-rc.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "webpack": "^3.9.1"
+  }
+}
